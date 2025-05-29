@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+.body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    flex-direction: column;
+    background-color: rgb(222,220,224);
+}
+.container{
+    margin: 10px 20px;
+    display: flex;
+ flex-direction: row;
+ align-items: center;
+ justify-content: center;
+}
+.left-part{
+    width: 40%;
+}
+h1{
+    color: royalblue;
+    font-size: 80px;
+}

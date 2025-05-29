@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+body{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(222,220,224) ;
+}
+.container{
+    margin: 10px 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    color: blue;
+    font-size: 80px;
+}
